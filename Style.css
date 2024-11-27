@@ -1,0 +1,156 @@
+
+
+
+
+#parent{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    row-gap: 1rem;
+    grid-template-columns: 1fr 1fr ;
+    
+    
+}
+.grid-box{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    width: 500px;
+    height: 300px;
+    box-shadow: 0 0 10px;
+    transform: scale();
+}
+h2{
+    text-align: center;
+    width:500px;    
+    height:200px;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    border:1px solid black;
+    border-radius: 20px;
+    
+}
+h2:hover{
+    box-shadow: 0 0 10px;
+
+
+}
+#box2{
+    width: 400px;
+    height:200px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    
+}
+#box2:hover{
+    box-shadow: 0 0 10px;
+
+
+}
+#box3{
+    width: 400px;
+    height:200px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    box-shadow: 0 0 10px;
+
+}
+#box4{
+    width: 400px;
+    height:200px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    box-shadow: 0 0 10px;
+
+}
+
+#redtext{
+    width:50px;
+    height:50px;
+    background: red;
+    border-radius: 50%;
+}
+#greentext{
+    width:50px;
+    height:50px;
+    background:green;
+    border-radius: 50%;
+}
+#bluetext{
+    width:50px;
+    height:50px;
+    background:blue;
+    border-radius: 50%;
+}
+#pinktext{
+    width:50px;
+    height:50px;
+    background:pink;
+    border-radius: 50%;
+}
+#yellowtext{
+    width:50px;
+    height:50px;
+    background:yellow;
+    border-radius: 50%;
+}#purpletext{
+    width:50px;
+    height:50px;
+    background:purple;
+    border-radius: 50%;
+}
+#magentatext{
+    width:50px;
+    height:50px;
+    background:magenta;
+    border-radius: 50%;
+}
+#orangetext{
+    width:50px;
+    height:50px;
+    background:orange;
+    border-radius: 50%;
+}
+#maroontext{
+    width:50px;
+    height:50px;
+    background:maroon;
+    border-radius: 50%;
+}
+#blacktext{
+    width:50px;
+    height:50px;
+    background:black;
+    border-radius: 50%;
+}
+#greentext{
+    width:50px;
+    height:50px;
+    background:green;
+   
+}
+#fonttext{
+    margin-top: 50px;
+    width:70px;
+    height: 50;
+    border-color: antiquewhite;   
+}
+h1{
+    text-align: center;
+   text-decoration: underline;
+   font-style: italic;
+    
+}
